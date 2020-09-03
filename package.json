@@ -18,7 +18,7 @@
   "homepage": "https://github.com/rgpl/hapi-sample#readme",
   "dependencies": {
     "@hapi/basic": "^5.1.1",
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "bcrypt": "^3.0.6",
     "jsonwebtoken": "^8.5.1"
   }
